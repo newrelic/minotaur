@@ -1,0 +1,6 @@
+{
+  "id"        : "dave",
+  "comment"   : "David Peterson",
+  "ssh_keys"  : ["ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAyYBLPrB66ULDGUWi3NkcmCaPxplbKv7boZbcJLFlryn9hX87m5gpxtpWUDPdWgjofGIjMo45CxI+Fbokk0mr0oqUDrFgvOPfMq+7Qhr4cv4Re2dHa9jy6Sx506QgYTLXK6O/lbl9X9nwrcaSzkNBi8GOYsx7qHzqScsnIgRM/AhNq2ZS0Hbz+8Me1w0su7N8Q7NYHtUbyqzmTWhPrNwR/TUS6bKFj3GCDsl6QTvdabR6XmgqsnmAOIS+FOwwxPZrwcfKxOnvc+qDwbWp5qVVeNqNMaSeINRZlTho4afA1je2EYmFHCER9PuikbYDrfWtZ5zpfeEXA/K+rfxPAzsnzw== dave@david-petersons-macbook-pro.local"],
+  "environments": ["vagrant","nr-logging"]
+}

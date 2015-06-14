@@ -49,7 +49,7 @@ parser.add_argument('-e', '--environment', required=True, help='CloudFormation e
 parser.add_argument('-r', '--region', required=True, help='Geographic area to deploy to')
 parser.add_argument('-z', '--availability-zone', required=True, help='Isolated location to deploy to')
 parser.add_argument('-i', '--instance-type', default='m1.small', help='AWS EC2 instance type to deploy')
-parser.add_argument('-u', '--repo-url', default='https://git@github.com/stealthly/minotaur.git', help='Public repository url where user info is stored')
+parser.add_argument('-u', '--repo-url', default='https://github.com/newrelic/minotaur.git', help='Public repository url where user info is stored')
 
 def main(parser):
     args, unknown = parser.parse_known_args()
