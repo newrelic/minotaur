@@ -70,6 +70,9 @@
         "NatAmi": {
             "us-east-1": {
                 "Ami": "ami-ad227cc4"
+            },
+            "us-west-2": {
+                "Ami": "ami-f032acc0"
             }
         }
     },
